@@ -1,0 +1,32 @@
+body{
+    background-color: #ccc;
+}
+
+.textoVermelho{
+    color: #f5f5f5;
+}
+.container {
+    background-color: #b8e1e9;
+  }
+  
+  #formUpdate {
+    margin-top: 20px;
+  }
+  
+  #btnUpdate {
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+  
+  #listaUsuarios {
+    margin-top: 20px;
+  }
+  
+  .list-group-item {
+    cursor: pointer;
+  }
+  
+  .list-group-item:hover {
+    background-color: #f0f0f0;
+  }
+  
